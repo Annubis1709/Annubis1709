@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Edier Sanchez Sanchez (@Annubis1709)
-- 👀 I’m interested in Software development and web applications, DataScience.
+- 👀 I’m interested in Software development and web applications, DataScience and Machine Learning.
 - 🌱 I’m currently learning Software development and web applications
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
