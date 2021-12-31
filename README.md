@@ -2,7 +2,9 @@
 - 👀 I’m interested in Software development and web applications, DataScience and Machine Learning.
 - 🌱 I’m currently learning Software development and web applications
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me:
+-- [Linkedin](www.linkedin.com/in/edier-sanchez-sanchez)
+-- [Interacpedia](https://interacpedia.com/user/edier-sanchez-sanchez)
 
 <!---
 Annubis1709/Annubis1709 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
