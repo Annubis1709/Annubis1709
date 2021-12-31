@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Edier Sanchez Sanchez (@Annubis1709)
 - 👀 I’m interested in Software development and web applications, DataScience, Machine Learning, Data mining and data warehousing.
-- 🌱 I’m currently learning Fullstack MERN and Software development with Java and Python.
+- 🌱 I’m currently learning Full-stack developer (MERN) and Software development with Java and Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
 -- [Linkedin](www.linkedin.com/in/edier-sanchez-sanchez)
