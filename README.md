@@ -1,4 +1,4 @@
-# _Junior Frontend Developer / Mechanical Engineer_ 
+# _Junior FrontEnd Developer / Mechanical Engineer_ 
 
 - 👋 Hi, I’m Edier Sanchez Sanchez (@Annubis1709)
 - 👀 I’m interested in Software and Web Development, DataScience, Machine Learning, Data mining and Data Warehousing.
