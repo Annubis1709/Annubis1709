@@ -22,7 +22,7 @@
 </code></pre>
 <p class="has-line-data" data-line-start="37" data-line-end="38"><a href="https://www.freecodecamp.org/"><img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&amp;style=for-the-badge&amp;logo=freecodecamp&amp;logoColor=green" alt="FreeCodeCamp"></a></p>
 <blockquote>
-<p class="has-line-data" data-line-start="39" data-line-end="41">Note: <code>Learning more JavaScript and Java SE</code> by myself.<br>
+<p class="has-line-data" data-line-start="39" data-line-end="41">Note: <code><b>Learning more JavaScript and Java SE</b></code> by myself.<br>
 <strong>See you!</strong></p>
 </blockquote>
 
