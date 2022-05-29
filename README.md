@@ -4,6 +4,7 @@
 <li class="has-line-data" data-line-start="3" data-line-end="4">👀 I’m interested in Software and Web Development, DataScience, Machine Learning, Data mining and Data Warehousing.</li>
 <li class="has-line-data" data-line-start="4" data-line-end="6">💞️ I’m looking to collaborate on …</li>
 </ul>
+<h2 class="code-line" data-line-start=6 data-line-end=8 ><a id="Skills_6"></a><strong><em>Skills</em></strong></h2>
 <h2 class="code-line" data-line-start=6 data-line-end=8 ><a id="Languages_6"></a><strong>Languages:</strong></h2>
 <p class="has-line-data" data-line-start="9" data-line-end="10"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" alt="JavaScript"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54" alt="Python"> <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&amp;logo=r&amp;logoColor=white" alt="R"></p>
 <h2 class="code-line" data-line-start=12 data-line-end=14 ><a id="Frameworks_Platforms_and_Libraries_12"></a><strong>Frameworks, Platforms and Libraries:</strong></h2>
