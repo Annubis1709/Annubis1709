@@ -1,4 +1,4 @@
-<h2 class="code-line" data-line-start=0 data-line-end=2 ><a id="Junior_FrontEnd_Developer__Mechanical_Engineer_0"></a><strong><em>Junior FrontEnd Developer / Mechanical Engineer</em></strong></h2>
+<h2 class="code-line" data-line-start=0 data-line-end=2 ><a id="Junior_FrontEnd_Developer__Mechanical_Engineer_0"></a><strong><em>Junior FrontEnd Developer</em></strong></h2>
 <ul>
 <li class="has-line-data" data-line-start="2" data-line-end="3">👋 Hi, I’m Edier Sanchez Sanchez (@Annubis1709)</li>
 <li class="has-line-data" data-line-start="3" data-line-end="4">👀 I’m interested in Software and Web Development, DataScience, Machine Learning, Data mining and Data Warehousing.</li>
